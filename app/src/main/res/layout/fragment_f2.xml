@@ -1,0 +1,11 @@
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_marginBottom="20dp"
+	android:background="#6c6c6c"
+	tools:context="com.example.abdul_wahab.fragmentlabtaska.fragments.F2Fragment"
+	>
+
+</RelativeLayout>
